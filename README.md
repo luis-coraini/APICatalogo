@@ -28,8 +28,4 @@ Este projeto tem como objetivo o aprendizado e prática de conceitos fundamentai
 - Configure o arquivo `appsettings.json`, alterando o campo "DefaultConnection" com os seus dados
 - Execute as migrations
 
-
-# !!! Este é um projeto criado unicamente para fins de estudos, podendo haver erros inesperados durante as execuções !!!
-
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=8e6446&textBg=false&reversal=true&section=footer">
